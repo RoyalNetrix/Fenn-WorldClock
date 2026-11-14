@@ -1,0 +1,5 @@
+# local settings and saved data (can contain your city, hosts, etc.)
+config.json
+cache.json
+__pycache__/
+*.pyc

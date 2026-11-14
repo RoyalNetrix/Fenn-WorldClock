@@ -1,0 +1,9 @@
+id          = "worldclock"
+name        = "World clocks"
+description = "Times in other cities. Needs: pip install tzdata (Windows)."
+version     = "0.1.1"
+icon        = "globe-hemisphere-west"
+size        = "wide"
+mode        = "live"
+page_size   = [560, 290]
+run         = ["python", "main.py"]
